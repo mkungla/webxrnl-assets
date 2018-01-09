@@ -4,7 +4,7 @@
 
 - fork the repository
 - cd to directory you store your Open Source Projects
-- open teminal and run
+- open terminal and run
 
 ```
 git clone --origin github/<your-username> git@github.com:<your-username>/webxrnl-assets.git
